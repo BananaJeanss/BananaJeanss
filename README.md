@@ -16,7 +16,7 @@
   </div>
   <div style="flex: 1; text-align: right;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,lua,py," alt="SkillIcons">
+      <img src="https://skillicons.dev/icons?i=js,php,postgres,html,css,lua,py" alt="SkillIcons">
     </a>
   </div>
 </div>
