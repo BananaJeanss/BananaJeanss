@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm BananaJeans. 👋 You can check out my stats/info below. 
+<h1 align="center">Hi, I'm BananaJeans. 👋 You can check out my stats/info below. <br>
   <a href="http://discordapp.com/users/269514812881502209">
     <img src="https://img.shields.io/badge/Discord-BananaJeans-blue?style=for-the-badge&logo=discord" alt="Discord - BananaJeans#5704">
   </a>
