@@ -14,12 +14,12 @@
 <div align="center">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=OutdatedDev" alt="Anurag's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=BananaJeanss" alt="Anurag's GitHub stats">
     </a>
   </div>
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,php,postgres,html,css,lua,py,linux" alt="SkillIcons">
+      <img src="https://skillicons.dev/icons?i=js,html,css,php,postgres,lua,py,linux" alt="SkillIcons">
     </a>
   </div>
 </div>
