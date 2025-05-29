@@ -15,4 +15,4 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,postgres,lua,py,linux,c,cs,arduino" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,postgres,lua,py,linux,arduino" alt="Tech Stack" />
