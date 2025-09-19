@@ -12,6 +12,8 @@
 ---
 
 <div align="center">
+  <img src="https://readmefm.bnajns.hackclub.app/songdisplay?username=bananajeans&theme=dark" alt="readmefm" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=BananaJeanss&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=1873&api_domain=hackatime.hackclub.com&theme=highcontrast&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime" />
