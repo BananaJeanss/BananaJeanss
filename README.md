@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://readmefm.bnajns.hackclub.app/songdisplay?username=bananajeans&theme=dark" alt="readmefm" />
+  <img src="https://readmefm.bnajns.hackclub.app/songdisplay?username=bananajeans&theme=dark&roundit=True" alt="readmefm" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=BananaJeanss&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   <br>
