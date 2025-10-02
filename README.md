@@ -21,8 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaJeanss&layout=compact&theme=highcontrast" alt="Top Languages" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,lua,py,go,cpp,arduino,linux,windows" alt="Tech Stack" />
+  <br><br>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-foundations.svg?branch=main" alt="Github Foundations Certification" width=150 />
 </div>
-
 
 
 
