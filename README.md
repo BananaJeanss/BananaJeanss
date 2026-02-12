@@ -14,11 +14,11 @@
 <div align="center">
   <img src="https://readmefm.bnajns.dev/songdisplay?username=bananajeans&theme=dark&roundit=True" alt="readmefm" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=BananaJeanss&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BananaJeanss&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=highcontrast" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=1873&api_domain=hackatime.hackclub.com&theme=highcontrast&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaJeanss&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BananaJeanss&layout=compact&langs_count=10&theme=highcontrast" alt="Top Languages" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,lua,py,go,cpp,arduino,linux,windows" alt="Tech Stack" />
   <br><br>
